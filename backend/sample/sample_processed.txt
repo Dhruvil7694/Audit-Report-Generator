@@ -1,0 +1,20 @@
+==================================================
+DOCUMENT METADATA
+==================================================
+Title: N/A
+Author: Jason Firch
+Creation Date: D:20200116024627+01'00'
+Total Pages: 5
+==================================================
+
+
+==================================================
+FINDINGS
+==================================================
+Update 201 / 7 Update 211 or later. If necessary, remove any affected versions. Adobe AIR 22.0.0.153 Android Applications Runtime Analytics MitM (APSB16-31) : 8 3 Upgrade to Adobe AIR version 23.0.0.257 or later. 4 P age sales purplesec.us
+
+
+==================================================
+ADDITIONAL INFORMATION
+==================================================
+Page 1/5 Sample Network Vulnerability Assessment Report sales purplesec.us Page 3/5 Critical Severity Vulnerability 286 were unique critical severity vulnerabilities. Critical vulnerabilities require immediate attention. They are relatively easy for attackers to exploit and may provide them with full control of the affected systems. A table of the top critical severity vulnerabilities is provided below: PLUGIN NAME DESCRIPTION SOLUTION COUNT The version of Firefox installed on the Upgrade to Mozilla remote Windows host is prior to 65.0. It is Mozilla Firefox 65.0 Firefox version 65.0 or 22 therefore affected by multiple vulnerabilities later. as referenced in the mfsa2019-01 advisory. According to its version there is at least one Mozilla Foundation unsupported Mozilla application (Firefox Upgrade to a version Unsupported Thunderbird and/or SeaMonkey) installed that is currently 16 Application Detection on the remote host. This version of the supported. software is no longer actively maintained. 2 P age sales purplesec.us Page 5/5 Adobe Acrobat 10.1.15 / 11.0.12 / 2015.006.30060 / 2015.008.20082 Multiple
